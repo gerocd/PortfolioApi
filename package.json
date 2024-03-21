@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "dev": "nodemon src/index.cjs"
+    "dev": "node src/index.cjs"
   },
   "keywords": [],
   "author": "",
